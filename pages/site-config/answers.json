@@ -10,5 +10,5 @@
     "Username": "test"
   },
   "TargetRepoName": "answers-engoffsite.brand-${{businessId}}",
-  "TemplateRepo": "github.com/big-ol-sandbox/answers.demo-offsite.com"
+  "TemplateRepo": "github.com/yext-pages/tech2020-answers.brand.com"
 }
